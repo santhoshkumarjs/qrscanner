@@ -1,0 +1,3 @@
+https://www.sitepoint.com/scanning-qr-code-cordova/
+http://cordova.apache.org/#getstarted
+https://www.npmjs.com/package/cordova-plugin-barcodescanner
